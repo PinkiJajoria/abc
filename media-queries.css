@@ -201,7 +201,7 @@
     /* width: 23%; */
     height: 500px;
     border: 2px solid fuchsia;
-    background-image: url(../project-11-5-24/pics./ashi4.jpeg);
+    background-image: url(pics./ashi4.jpeg);
     background-blend-mode: darken;
     background-size: 300px;
     position: relative;
@@ -226,7 +226,7 @@
         /* width: 23%; */
         height: 500px;
         border: 2px solid fuchsia;
-        background-image: url(../project-11-5-24/pics./ashi6.jpeg);
+        background-image: url(pics./ashi6.jpeg);
         background-size: 300px;
         position: relative;
         background-blend-mode: darken;
@@ -247,7 +247,7 @@
         /* width: 23%; */
         height: 500px;
         border: 2px solid fuchsia;
-        background-image: url(../project-11-5-24/pics./tanni.jpeg);
+        background-image: url(pics./tanni.jpeg);
         background-size: 300px;
         position: relative;
         background-blend-mode: darken;
@@ -268,7 +268,7 @@
         /* width: 23%; */
         height: 500px;
         border: 2px solid fuchsia;
-        background-image: url(../project-11-5-24/pics./tanni2.jpeg);
+        background-image: url(pics./tanni2.jpeg);
         background-size: 300px;
         position: relative;
         background-blend-mode: darken;
